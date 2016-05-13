@@ -1,6 +1,7 @@
 /*
  * Remember clang is using LLVM as front end, it generated different
  * assembler code as what we get from GCC
+ * Page 223: 3.4.4 Data Movement Example
  */ 
 long exchange(long *xp, long y)
 {
